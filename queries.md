@@ -24,7 +24,7 @@
 
 `select * from customers where customerName like '%market%'`
 
------------------------Stretch-------------------------
+------------------------Stretch-------------------------
 
 ## add a customer record for _"The Shire"_, the contact name is _"Bilbo Baggins"_ the address is _"1 Hobbit-Hole"_ in _"Bag End"_, postal code _"111"_ and the country is _"Middle Earth"_.
 

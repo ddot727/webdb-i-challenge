@@ -2,7 +2,7 @@
 
 ## find all customers that live in London. Returns 6 records.
 
-`select * 
+`select *
 from customers 
 where city = 'London'`
 

@@ -64,4 +64,5 @@ where supplierId = 11`
 
 ## delete all users that have no orders. Should delete 17 (or 18 if you haven't deleted the record added) records.
 
-
+`delete from customers`
+`where customers.customerid not in (select customerid from orders)`
